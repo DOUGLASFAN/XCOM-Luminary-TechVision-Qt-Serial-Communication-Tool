@@ -1,6 +1,9 @@
 # 光龙锐志 Qt 串口通信工具（XCOM）XCOM-Luminary-TechVision-Qt-Serial-Communication-Tool
 
 A lightweight serial communication tool developed based on the Qt framework, supporting core features such as serial port scanning, opening/closing, data transmission/reception, file sending (with interrupt functionality), and dynamic serial port list updates. It has a clean and user-friendly interface, suitable for scenarios like embedded debugging and hardware communication.  
+<div align="center">
+  <img width="681" height="469" alt="image" src="https://github.com/user-attachments/assets/a80838af-c95a-4fd8-a362-bb2f69d2eb3d" />
+</div>
 
 
 ## Project Overview  
